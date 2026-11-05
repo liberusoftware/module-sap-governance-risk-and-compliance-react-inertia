@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-governance-risk-and-compliance-react-inertia",
+  "capabilityKey": "planned:sap:governance-risk-and-compliance",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-sap-governance-risk-and-compliance-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/sap/nextjs/governance-risk-and-compliance.md",
+  "presentationPlan": "projects/sap/react/governance-risk-and-compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
